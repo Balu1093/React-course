@@ -1,2 +1,2 @@
 # React-course
-Namsate React course study material
+Namaste React course study material
